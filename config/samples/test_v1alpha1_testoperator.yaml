@@ -1,0 +1,7 @@
+apiVersion: test.example.com/v1alpha1
+kind: TestOperator
+metadata:
+  name: testoperator-sample
+spec:
+  # Add fields here
+  size: 4
